@@ -1,10 +1,1 @@
-git clone <repository-url>
-cd <intSED>
-git checkout -b branch1
-git checkout -b branch2
-git add .
-git commit -m "Commit message describing changes on branch1"
-git checkout branch2
-git merge branch1
-git push origin branch2
 
